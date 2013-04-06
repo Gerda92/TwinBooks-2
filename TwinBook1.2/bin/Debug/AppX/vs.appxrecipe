@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ERKE-ПК</Machine>
+    <WindowsUser>Erke</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>C42464B04BEDA67CA24CE6794E8545E7F2268A8C1BBC51FCF77B719D4A6C16D2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>63827372-fa70-4e13-b4d2-aed8f812a158_1.0.0.0_neutral__1kxv229vsqaz2</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>63827372-fa70-4e13-b4d2-aed8f812a158_1kxv229vsqaz2!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>63827372-fa70-4e13-b4d2-aed8f812a158</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Erke</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-03T19:47:38.086</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-04-03T19:41:41.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book\css\app.css">
+      <PackagePath>pages\book\css\app.css</PackagePath>
+      <Modified>2013-03-26T12:56:03.031</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book\css\fs.css">
+      <PackagePath>pages\book\css\fs.css</PackagePath>
+      <Modified>2013-03-28T08:47:25.259</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book\css\n.css">
+      <PackagePath>pages\book\css\n.css</PackagePath>
+      <Modified>2013-03-25T15:02:09.355</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2013-04-03T19:41:41.891</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T18:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T18:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T18:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T18:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book\css\nav_small.png">
+      <PackagePath>pages\book\css\nav_small.png</PackagePath>
+      <Modified>2013-03-25T15:10:55.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-04-03T19:41:41.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2013-04-03T19:41:41.978</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book\js\flip.js">
+      <PackagePath>pages\book\js\flip.js</PackagePath>
+      <Modified>2013-03-25T16:26:12.571</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book\js\jquery.js">
+      <PackagePath>pages\book\js\jquery.js</PackagePath>
+      <Modified>2013-04-04T13:51:44.143</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book\js\main.js">
+      <PackagePath>pages\book\js\main.js</PackagePath>
+      <Modified>2013-03-28T09:46:06.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book\js\md.js">
+      <PackagePath>pages\book\js\md.js</PackagePath>
+      <Modified>2013-03-25T16:22:32.926</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book\js\t.js">
+      <PackagePath>pages\book\js\t.js</PackagePath>
+      <Modified>2013-03-28T07:14:35.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2013-04-03T19:41:41.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book\css\bg.jpg">
+      <PackagePath>pages\book\css\bg.jpg</PackagePath>
+      <Modified>2013-03-25T14:58:32.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book\index.html">
+      <PackagePath>pages\book\index.html</PackagePath>
+      <Modified>2013-03-28T07:21:33.418</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2013-04-03T19:41:41.897</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-04-03T19:47:36.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-04-03T19:47:37.872</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.8514.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.8514.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
