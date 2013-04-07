@@ -16,7 +16,7 @@
     <AppXManifest Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-04-03T19:47:38.086</Modified>
+      <Modified>2013-04-07T09:27:30.788</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -36,9 +36,25 @@
       <PackagePath>pages\book\css\n.css</PackagePath>
       <Modified>2013-03-25T15:02:09.355</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book_new\css\additional.css">
+      <PackagePath>pages\book_new\css\additional.css</PackagePath>
+      <Modified>2013-04-06T08:22:04.964</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book_new\css\app.css">
+      <PackagePath>pages\book_new\css\app.css</PackagePath>
+      <Modified>2013-04-06T08:22:04.967</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book_new\css\normalize.css">
+      <PackagePath>pages\book_new\css\normalize.css</PackagePath>
+      <Modified>2013-04-06T08:22:04.970</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book_new\css\table.css">
+      <PackagePath>pages\book_new\css\table.css</PackagePath>
+      <Modified>2013-04-06T10:40:11.364</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\home\home.css">
       <PackagePath>pages\home\home.css</PackagePath>
-      <Modified>2013-04-03T19:41:41.891</Modified>
+      <Modified>2013-04-06T13:56:35.169</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
@@ -82,7 +98,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book\js\main.js">
       <PackagePath>pages\book\js\main.js</PackagePath>
-      <Modified>2013-03-28T09:46:06.286</Modified>
+      <Modified>2013-04-06T13:53:23.997</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book\js\md.js">
       <PackagePath>pages\book\js\md.js</PackagePath>
@@ -92,29 +108,69 @@
       <PackagePath>pages\book\js\t.js</PackagePath>
       <Modified>2013-03-28T07:14:35.670</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book_new\js\alignment-module.js">
+      <PackagePath>pages\book_new\js\alignment-module.js</PackagePath>
+      <Modified>2013-04-06T10:36:41.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book_new\js\app.js">
+      <PackagePath>pages\book_new\js\app.js</PackagePath>
+      <Modified>2013-04-06T08:26:55.429</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book_new\js\jquery.animate-colors-min.js">
+      <PackagePath>pages\book_new\js\jquery.animate-colors-min.js</PackagePath>
+      <Modified>2013-04-06T08:48:20.862</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book_new\js\jquery.js">
+      <PackagePath>pages\book_new\js\jquery.js</PackagePath>
+      <Modified>2013-04-07T09:56:42.347</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book_new\js\modules.js">
+      <PackagePath>pages\book_new\js\modules.js</PackagePath>
+      <Modified>2013-04-07T09:59:00.796</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book_new\js\tooltip.js">
+      <PackagePath>pages\book_new\js\tooltip.js</PackagePath>
+      <Modified>2013-04-06T08:26:55.426</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\home\home.js">
       <PackagePath>pages\home\home.js</PackagePath>
-      <Modified>2013-04-03T19:41:41.984</Modified>
+      <Modified>2013-04-06T13:49:04.880</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book\book1.html">
+      <PackagePath>pages\book\book1.html</PackagePath>
+      <Modified>2013-04-06T11:53:58.681</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book\index.html">
+      <PackagePath>pages\book\index.html</PackagePath>
+      <Modified>2013-04-06T13:59:52.809</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-04-06T13:52:57.141</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book_new\index.html">
+      <PackagePath>pages\book_new\index.html</PackagePath>
+      <Modified>2013-04-07T10:02:12.269</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2013-04-07T09:27:25.090</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book\css\bg.jpg">
       <PackagePath>pages\book\css\bg.jpg</PackagePath>
       <Modified>2013-03-25T14:58:32.426</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book\index.html">
-      <PackagePath>pages\book\index.html</PackagePath>
-      <Modified>2013-03-28T07:21:33.418</Modified>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\home\bg.jpg">
+      <PackagePath>pages\home\bg.jpg</PackagePath>
+      <Modified>2013-03-25T14:58:32.426</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\home\home.html">
-      <PackagePath>pages\home\home.html</PackagePath>
-      <Modified>2013-04-03T19:41:41.897</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\default.html">
-      <PackagePath>default.html</PackagePath>
-      <Modified>2013-04-03T19:47:36.184</Modified>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book_new\images\preloader.gif">
+      <PackagePath>pages\book_new\images\preloader.gif</PackagePath>
+      <Modified>2013-04-05T03:57:54.802</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-04-03T19:47:37.872</Modified>
+      <Modified>2013-04-07T09:27:29.823</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

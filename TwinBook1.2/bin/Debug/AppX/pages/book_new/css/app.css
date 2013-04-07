@@ -1,0 +1,49 @@
+body{
+	/*font-family: 'lucida grande', tahoma, verdana, arial, sans-serif;*/
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+	background: #f3f3f3;
+	margin-bottom : 20px;
+}
+
+.page{
+	background: #fff;
+	padding : 20px 24px;
+	line-height: 170%;
+}
+p{
+	color : #333333;
+	font-size : 17px;
+	margin-top : 0px;
+	margin-bottom : 20px;
+}
+
+.light-sentence{
+	background: rgb(206, 224, 238);
+	margin-top : 20px;
+	margin-bottom : 20px;
+}
+
+.head-text{
+	padding-left : 20px!important;
+	margin-top : 0;
+	font-size : 16px;
+	color : white;
+	padding : 10px 0px;
+	background: #5dade2;
+}
+
+.tooltip-control-button{
+	display: block;
+	background: #1abc9c;
+	color : white;
+	font-size : 16px;
+	text-align: center;
+	padding : 4px 5px;
+}
+.tooltip-control-button a{
+	text-decoration: none;
+	color : white;
+	padding : 4px 10px;
+}
+
+

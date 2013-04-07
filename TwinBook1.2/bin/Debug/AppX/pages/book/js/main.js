@@ -1,5 +1,5 @@
-$( document ).ready( function() {
-	processing();
+$(document).ready(function () {    
+    processing();
 	worker();
 	update();
 });

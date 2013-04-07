@@ -60,6 +60,7 @@
     <Content Include="images\storelogo.png" />
     <Content Include="js\default.js" />
     <Content Include="js\navigator.js" />
+    <Content Include="pages\book\book1.html" />
     <Content Include="pages\book\css\app.css" />
     <Content Include="pages\book\css\bg.jpg" />
     <Content Include="pages\book\css\fs.css" />
@@ -71,10 +72,23 @@
     <Content Include="pages\book\js\main.js" />
     <Content Include="pages\book\js\md.js" />
     <Content Include="pages\book\js\t.js" />
+    <Content Include="default.html" />
+    <Content Include="pages\book_new\css\additional.css" />
+    <Content Include="pages\book_new\css\app.css" />
+    <Content Include="pages\book_new\css\normalize.css" />
+    <Content Include="pages\book_new\css\table.css" />
+    <Content Include="pages\book_new\images\preloader.gif" />
+    <Content Include="pages\book_new\index.html" />
+    <Content Include="pages\book_new\js\alignment-module.js" />
+    <Content Include="pages\book_new\js\app.js" />
+    <Content Include="pages\book_new\js\jquery.animate-colors-min.js" />
+    <Content Include="pages\book_new\js\jquery.js" />
+    <Content Include="pages\book_new\js\modules.js" />
+    <Content Include="pages\book_new\js\tooltip.js" />
+    <Content Include="pages\home\bg.jpg" />
     <Content Include="pages\home\home.css" />
     <Content Include="pages\home\home.html" />
     <Content Include="pages\home\home.js" />
-    <Content Include="default.html" />
     <None Include="TwinBook1.2_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>

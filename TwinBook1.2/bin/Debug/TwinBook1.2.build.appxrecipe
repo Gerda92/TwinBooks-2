@@ -25,6 +25,18 @@
     <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book\css\n.css">
       <PackagePath>pages\book\css\n.css</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book_new\css\additional.css">
+      <PackagePath>pages\book_new\css\additional.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book_new\css\app.css">
+      <PackagePath>pages\book_new\css\app.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book_new\css\normalize.css">
+      <PackagePath>pages\book_new\css\normalize.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book_new\css\table.css">
+      <PackagePath>pages\book_new\css\table.css</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\home\home.css">
       <PackagePath>pages\home\home.css</PackagePath>
     </AppxPackagedFile>
@@ -68,20 +80,50 @@
     <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book\js\t.js">
       <PackagePath>pages\book\js\t.js</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book_new\js\alignment-module.js">
+      <PackagePath>pages\book_new\js\alignment-module.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book_new\js\app.js">
+      <PackagePath>pages\book_new\js\app.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book_new\js\jquery.animate-colors-min.js">
+      <PackagePath>pages\book_new\js\jquery.animate-colors-min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book_new\js\jquery.js">
+      <PackagePath>pages\book_new\js\jquery.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book_new\js\modules.js">
+      <PackagePath>pages\book_new\js\modules.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book_new\js\tooltip.js">
+      <PackagePath>pages\book_new\js\tooltip.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\home\home.js">
       <PackagePath>pages\home\home.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book\css\bg.jpg">
-      <PackagePath>pages\book\css\bg.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book\book1.html">
+      <PackagePath>pages\book\book1.html</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book\index.html">
       <PackagePath>pages\book\index.html</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book_new\index.html">
+      <PackagePath>pages\book_new\index.html</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\home\home.html">
       <PackagePath>pages\home\home.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\default.html">
-      <PackagePath>default.html</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book\css\bg.jpg">
+      <PackagePath>pages\book\css\bg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\home\bg.jpg">
+      <PackagePath>pages\home\bg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\pages\book_new\images\preloader.gif">
+      <PackagePath>pages\book_new\images\preloader.gif</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Erke\Desktop\New folder\TwinBook1.2\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>

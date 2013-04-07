@@ -6,6 +6,7 @@ images\splashscreen.png
 images\storelogo.png
 js\default.js
 js\navigator.js
+pages\book\book1.html
 pages\book\css\app.css
 pages\book\css\bg.jpg
 pages\book\css\fs.css
@@ -17,6 +18,19 @@ pages\book\js\jquery.js
 pages\book\js\main.js
 pages\book\js\md.js
 pages\book\js\t.js
+pages\book_new\css\additional.css
+pages\book_new\css\app.css
+pages\book_new\css\normalize.css
+pages\book_new\css\table.css
+pages\book_new\images\preloader.gif
+pages\book_new\index.html
+pages\book_new\js\alignment-module.js
+pages\book_new\js\app.js
+pages\book_new\js\jquery.animate-colors-min.js
+pages\book_new\js\jquery.js
+pages\book_new\js\modules.js
+pages\book_new\js\tooltip.js
+pages\home\bg.jpg
 pages\home\home.css
 pages\home\home.html
 pages\home\home.js
