@@ -1,0 +1,163 @@
+.head-text{
+	padding-left:10px!important;
+	margin-top : 0;
+	font-size : 16px;
+	color : white;
+	padding : 10px 0;
+	background: rgba(77, 78, 78, 1);
+}
+
+.side-options{
+	margin-right : 5px;
+	float : right;
+}
+
+.side-options a{
+	margin-right : 5px;
+    float: left;
+    width: 30px;
+    height: 30px;
+    margin-top: -5px;
+}
+
+.side-options span{
+	margin-right : 5px;
+    float: left;
+    margin-top: -1px;
+}
+
+#js-to-twin-pages {
+    background: url(../icons/2books.png) no-repeat;
+    background-size: 30px;
+}
+
+#js-to-left {
+    background: url(../icons/lb.png) no-repeat;
+    background-size: 30px;
+}
+
+#js-to-right {
+    background: url(../icons/rb.png) no-repeat;
+    background-size: 30px;
+}
+
+#js-to-align {
+    background: url(../icons/align.png) no-repeat;
+    background-size: 30px;
+}
+
+#js-to-twin-back {
+    background: url(../icons/toleft.png) no-repeat;
+    background-size: 30px;	
+}
+
+#js-to-twin-for {
+    background: url(../icons/toright.png) no-repeat;
+    background-size: 30px;	
+}
+
+.tooltip-control-button{
+	display: block;
+	background: #000000;
+	text-align: center;
+	padding : 4px 5px;
+	margin-top: -10px;
+}
+.tooltip-control-button a{
+	padding : 5px 10px;
+	display: inline-block;
+}
+
+
+.tooltip a{
+    width: 30px;
+    height: 30px;
+	display: inline-block;
+	margin-bottom: -5px;
+}
+
+#read-mode-left .tooltip .change-language {
+    background: url(../icons/rb.png) no-repeat;
+    background-size: 30px;
+}
+.two-left .tooltip .change-language {
+    background: url(../icons/rb.png) no-repeat;
+    background-size: 30px;
+}
+
+#read-mode-right .tooltip .change-language {
+    background: url(../icons/lb.png) no-repeat;
+    background-size: 30px;
+}
+
+.two-right .tooltip .change-language {
+    background: url(../icons/lb.png) no-repeat;
+    background-size: 30px;
+}
+
+.tooltip .edit-mark {
+    background: url(../icons/align.png) no-repeat;
+    background-size: 30px;
+}
+
+.twin-links {
+
+}
+
+.twin-links a {
+    width: 30px;
+    height: 30px;
+	display: block;
+}
+
+.twin-links .change-left {
+    background: url(../icons/lb.png) no-repeat;
+    background-size: 30px;
+}
+
+.twin-links .change-right {
+    background: url(../icons/rb.png) no-repeat;
+    background-size: 30px;
+}
+
+.change-twin {
+    background: url(../icons/2books.png) no-repeat;
+    background-size: 30px;
+}
+
+.mark:hover .twin-links {
+    visibility:visible;
+}
+
+.twin-links {
+	visibility: hidden;
+    width:5%;
+    border: 5px solid #f3f3f3;
+    background: black;
+}
+
+.user-made {
+    background-color: rgb(73, 202, 73);
+    content: 'User';
+}
+
+.aligner-made {
+    background-color: rgb(240, 105, 115);
+    content: 'Auto';
+}
+
+.loading {
+    background: transparent url('../images/preloader.gif') no-repeat 5px center;
+    background-size: 30px;
+    visibility: visible;
+}
+
+.loading a {
+    visibility: hidden;
+}
+
+.logo {
+	height: 35px;
+	float: left;
+	margin: -7px 10px -20px 0
+}

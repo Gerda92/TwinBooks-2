@@ -1,0 +1,32 @@
+body{
+	/*font-family: 'lucida grande', tahoma, verdana, arial, sans-serif;*/
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+	background: #f3f3f3;
+	margin-bottom : 20px;
+}
+
+.page{
+	background: #fff;
+	padding : 20px 24px;
+	line-height: 170%;
+}
+p{
+	color : #333333;
+	font-size : 17px;
+	margin-top : 0px;
+	margin-bottom : 20px;
+}
+
+.light-sentence{
+	background: rgb(206, 224, 238);
+	margin-top : 20px;
+	margin-bottom : 20px;
+}
+
+.sticky-header{
+	position:fixed;
+	top : 0;
+	width : auto;
+	z-index : 9999;
+}
+
