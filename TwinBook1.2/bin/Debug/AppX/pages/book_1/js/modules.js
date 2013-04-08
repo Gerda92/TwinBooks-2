@@ -236,6 +236,7 @@ modules["Change-Mode"] = (function(){
 
 			    var page = (/twin-page-(.+)/g).exec(sent.parents(".twin-page").attr('id'))[1];
 
+			    window.twin_page = page;
 			    window.to_page(page);
 			    /*
 				sent.animate({ backgroundColor: "rgb(73, 202, 73)" }, 200)

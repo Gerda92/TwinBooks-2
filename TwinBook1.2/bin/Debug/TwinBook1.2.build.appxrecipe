@@ -16,15 +16,6 @@
     <AppxPackagedFile Include="C:\Users\Gerda\Desktop\TwinBooks-2\TwinBook1.2\css\default.css">
       <PackagePath>css\default.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gerda\Desktop\TwinBooks-2\TwinBook1.2\pages\book\css\app.css">
-      <PackagePath>pages\book\css\app.css</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gerda\Desktop\TwinBooks-2\TwinBook1.2\pages\book\css\fs.css">
-      <PackagePath>pages\book\css\fs.css</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gerda\Desktop\TwinBooks-2\TwinBook1.2\pages\book\css\n.css">
-      <PackagePath>pages\book\css\n.css</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gerda\Desktop\TwinBooks-2\TwinBook1.2\pages\book_1\css\additional.css">
       <PackagePath>pages\book_1\css\additional.css</PackagePath>
     </AppxPackagedFile>
@@ -86,9 +77,6 @@
     <AppxPackagedFile Include="C:\Users\Gerda\Desktop\TwinBooks-2\TwinBook1.2\images\storelogo.png">
       <PackagePath>images\storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gerda\Desktop\TwinBooks-2\TwinBook1.2\pages\book\css\nav_small.png">
-      <PackagePath>pages\book\css\nav_small.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gerda\Desktop\TwinBooks-2\TwinBook1.2\pages\book_1\icons\2books.png">
       <PackagePath>pages\book_1\icons\2books.png</PackagePath>
@@ -153,21 +141,6 @@
     <AppxPackagedFile Include="C:\Users\Gerda\Desktop\TwinBooks-2\TwinBook1.2\js\navigator.js">
       <PackagePath>js\navigator.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gerda\Desktop\TwinBooks-2\TwinBook1.2\pages\book\js\flip.js">
-      <PackagePath>pages\book\js\flip.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gerda\Desktop\TwinBooks-2\TwinBook1.2\pages\book\js\jquery.js">
-      <PackagePath>pages\book\js\jquery.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gerda\Desktop\TwinBooks-2\TwinBook1.2\pages\book\js\main.js">
-      <PackagePath>pages\book\js\main.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gerda\Desktop\TwinBooks-2\TwinBook1.2\pages\book\js\md.js">
-      <PackagePath>pages\book\js\md.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gerda\Desktop\TwinBooks-2\TwinBook1.2\pages\book\js\t.js">
-      <PackagePath>pages\book\js\t.js</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gerda\Desktop\TwinBooks-2\TwinBook1.2\pages\book_1\js\alignment-module.js">
       <PackagePath>pages\book_1\js\alignment-module.js</PackagePath>
     </AppxPackagedFile>
@@ -225,12 +198,6 @@
     <AppxPackagedFile Include="C:\Users\Gerda\Desktop\TwinBooks-2\TwinBook1.2\pages\home\home.js">
       <PackagePath>pages\home\home.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gerda\Desktop\TwinBooks-2\TwinBook1.2\pages\book\book1.html">
-      <PackagePath>pages\book\book1.html</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gerda\Desktop\TwinBooks-2\TwinBook1.2\pages\book\index.html">
-      <PackagePath>pages\book\index.html</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gerda\Desktop\TwinBooks-2\TwinBook1.2\default.html">
       <PackagePath>default.html</PackagePath>
     </AppxPackagedFile>
@@ -242,9 +209,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gerda\Desktop\TwinBooks-2\TwinBook1.2\pages\home\home.html">
       <PackagePath>pages\home\home.html</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Gerda\Desktop\TwinBooks-2\TwinBook1.2\pages\book\css\bg.jpg">
-      <PackagePath>pages\book\css\bg.jpg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gerda\Desktop\TwinBooks-2\TwinBook1.2\pages\book_1\images\preloader.gif">
       <PackagePath>pages\book_1\images\preloader.gif</PackagePath>
