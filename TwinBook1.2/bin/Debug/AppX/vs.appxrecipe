@@ -5,7 +5,7 @@
     <WindowsUser>Erke</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <RegisteredManifestChecksum>C42464B04BEDA67CA24CE6794E8545E7F2268A8C1BBC51FCF77B719D4A6C16D2</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>743144A4406A7C545C7B03A05A1F6696E570A641D1A208A280970B8C344629A9</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>63827372-fa70-4e13-b4d2-aed8f812a158_1.0.0.0_neutral__1kxv229vsqaz2</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>63827372-fa70-4e13-b4d2-aed8f812a158_1kxv229vsqaz2!App</RegisteredUserModeAppID>
     <RegisteredPackageID>63827372-fa70-4e13-b4d2-aed8f812a158</RegisteredPackageID>
@@ -13,164 +13,229 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-04-07T09:27:30.788</Modified>
+      <Modified>2013-04-08T14:47:33.314</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\css\default.css">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\css\default.css">
       <PackagePath>css\default.css</PackagePath>
       <Modified>2013-04-03T19:41:41.824</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\book\css\app.css">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book\css\app.css">
       <PackagePath>pages\book\css\app.css</PackagePath>
       <Modified>2013-03-26T12:56:03.031</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\book\css\fs.css">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book\css\fs.css">
       <PackagePath>pages\book\css\fs.css</PackagePath>
       <Modified>2013-03-28T08:47:25.259</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\book\css\n.css">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book\css\n.css">
       <PackagePath>pages\book\css\n.css</PackagePath>
       <Modified>2013-03-25T15:02:09.355</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\book_new\css\additional.css">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book_new\css\additional.css">
       <PackagePath>pages\book_new\css\additional.css</PackagePath>
-      <Modified>2013-04-06T08:22:04.964</Modified>
+      <Modified>2013-04-08T14:32:28.424</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\book_new\css\app.css">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book_new\css\app.css">
       <PackagePath>pages\book_new\css\app.css</PackagePath>
-      <Modified>2013-04-06T08:22:04.967</Modified>
+      <Modified>2013-04-08T14:32:28.427</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\book_new\css\normalize.css">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book_new\css\normalize.css">
       <PackagePath>pages\book_new\css\normalize.css</PackagePath>
-      <Modified>2013-04-06T08:22:04.970</Modified>
+      <Modified>2013-04-08T14:32:28.433</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\book_new\css\table.css">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book_new\css\table.css">
       <PackagePath>pages\book_new\css\table.css</PackagePath>
-      <Modified>2013-04-06T10:40:11.364</Modified>
+      <Modified>2013-04-08T14:32:28.437</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\home\home.css">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\home\home.css">
       <PackagePath>pages\home\home.css</PackagePath>
-      <Modified>2013-04-06T13:56:35.169</Modified>
+      <Modified>2013-04-08T12:47:05.622</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\images\logo.png">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2012-07-26T18:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\images\smalllogo.png">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\images\LogoBlack310x150.png">
+      <PackagePath>images\LogoBlack310x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-07T22:56:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\images\LogoBlack620x300.png">
+      <PackagePath>images\LogoBlack620x300.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-07T22:54:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\images\LogoWhite310x150.png">
+      <PackagePath>images\LogoWhite310x150.png</PackagePath>
+      <Modified>2013-04-07T22:56:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\images\LogoWhite620x300.png">
+      <PackagePath>images\LogoWhite620x300.png</PackagePath>
+      <Modified>2013-04-07T22:57:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\images\smalllogo.png">
       <PackagePath>images\smalllogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2012-07-26T18:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\images\splashscreen.png">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\images\splashscreen.png">
       <PackagePath>images\splashscreen.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2012-07-26T18:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\images\storelogo.png">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\images\storelogo.png">
       <PackagePath>images\storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2012-07-26T18:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\book\css\nav_small.png">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book\css\nav_small.png">
       <PackagePath>pages\book\css\nav_small.png</PackagePath>
       <Modified>2013-03-25T15:10:55.995</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\js\default.js">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book_new\icons\2books.png">
+      <PackagePath>pages\book_new\icons\2books.png</PackagePath>
+      <Modified>2013-04-08T14:32:28.440</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book_new\icons\align.png">
+      <PackagePath>pages\book_new\icons\align.png</PackagePath>
+      <Modified>2013-04-08T14:32:28.443</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book_new\icons\align1.png">
+      <PackagePath>pages\book_new\icons\align1.png</PackagePath>
+      <Modified>2013-04-08T14:32:28.445</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book_new\icons\lb.png">
+      <PackagePath>pages\book_new\icons\lb.png</PackagePath>
+      <Modified>2013-04-08T14:32:28.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book_new\icons\logomini.png">
+      <PackagePath>pages\book_new\icons\logomini.png</PackagePath>
+      <Modified>2013-04-08T14:32:28.450</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book_new\icons\logomini1.png">
+      <PackagePath>pages\book_new\icons\logomini1.png</PackagePath>
+      <Modified>2013-04-08T14:32:28.452</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book_new\icons\rb.png">
+      <PackagePath>pages\book_new\icons\rb.png</PackagePath>
+      <Modified>2013-04-08T14:32:28.456</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book_new\icons\toleft.png">
+      <PackagePath>pages\book_new\icons\toleft.png</PackagePath>
+      <Modified>2013-04-08T14:32:28.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book_new\icons\toright.png">
+      <PackagePath>pages\book_new\icons\toright.png</PackagePath>
+      <Modified>2013-04-08T14:32:28.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\Без имени-2.png">
+      <PackagePath>Без имени-2.png</PackagePath>
+      <Modified>2013-04-07T22:48:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\js\default.js">
       <PackagePath>js\default.js</PackagePath>
       <Modified>2013-04-03T19:41:41.805</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\js\navigator.js">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\js\navigator.js">
       <PackagePath>js\navigator.js</PackagePath>
       <Modified>2013-04-03T19:41:41.978</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\book\js\flip.js">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book\js\flip.js">
       <PackagePath>pages\book\js\flip.js</PackagePath>
       <Modified>2013-03-25T16:26:12.571</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\book\js\jquery.js">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book\js\jquery.js">
       <PackagePath>pages\book\js\jquery.js</PackagePath>
       <Modified>2013-04-04T13:51:44.143</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\book\js\main.js">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book\js\main.js">
       <PackagePath>pages\book\js\main.js</PackagePath>
       <Modified>2013-04-06T13:53:23.997</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\book\js\md.js">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book\js\md.js">
       <PackagePath>pages\book\js\md.js</PackagePath>
       <Modified>2013-03-25T16:22:32.926</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\book\js\t.js">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book\js\t.js">
       <PackagePath>pages\book\js\t.js</PackagePath>
       <Modified>2013-03-28T07:14:35.670</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\book_new\js\alignment-module.js">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book_new\js\alignment-module.js">
       <PackagePath>pages\book_new\js\alignment-module.js</PackagePath>
-      <Modified>2013-04-07T10:03:35.851</Modified>
+      <Modified>2013-04-08T14:32:28.522</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\book_new\js\app.js">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book_new\js\app.js">
       <PackagePath>pages\book_new\js\app.js</PackagePath>
-      <Modified>2013-04-06T08:26:55.429</Modified>
+      <Modified>2013-04-08T14:32:28.526</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\book_new\js\jquery.animate-colors-min.js">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book_new\js\jquery-1.8.2-win8-1.0.js">
+      <PackagePath>pages\book_new\js\jquery-1.8.2-win8-1.0.js</PackagePath>
+      <Modified>2013-02-01T18:12:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book_new\js\jquery.animate-colors-min.js">
       <PackagePath>pages\book_new\js\jquery.animate-colors-min.js</PackagePath>
-      <Modified>2013-04-06T08:48:20.862</Modified>
+      <Modified>2013-04-08T14:32:28.531</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\book_new\js\jquery.js">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book_new\js\jquery.js">
       <PackagePath>pages\book_new\js\jquery.js</PackagePath>
-      <Modified>2013-04-07T09:56:42.347</Modified>
+      <Modified>2013-04-08T15:26:55.790</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\book_new\js\modules.js">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book_new\js\modules.js">
       <PackagePath>pages\book_new\js\modules.js</PackagePath>
-      <Modified>2013-04-07T09:59:00.796</Modified>
+      <Modified>2013-04-08T15:29:03.295</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\book_new\js\tooltip.js">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book_new\js\pagination-module.js">
+      <PackagePath>pages\book_new\js\pagination-module.js</PackagePath>
+      <Modified>2013-04-08T14:32:28.682</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book_new\js\preprocessing.js">
+      <PackagePath>pages\book_new\js\preprocessing.js</PackagePath>
+      <Modified>2013-04-08T14:32:28.686</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book_new\js\tooltip.js">
       <PackagePath>pages\book_new\js\tooltip.js</PackagePath>
-      <Modified>2013-04-06T08:26:55.426</Modified>
+      <Modified>2013-04-08T14:32:28.695</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\home\home.js">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\home\home.js">
       <PackagePath>pages\home\home.js</PackagePath>
       <Modified>2013-04-06T13:49:04.880</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\book\book1.html">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book\book1.html">
       <PackagePath>pages\book\book1.html</PackagePath>
       <Modified>2013-04-06T11:53:58.681</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\book\index.html">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book\index.html">
       <PackagePath>pages\book\index.html</PackagePath>
       <Modified>2013-04-06T13:59:52.809</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\default.html">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2013-04-06T13:52:57.141</Modified>
+      <Modified>2013-04-08T11:44:30.690</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\book_new\index.html">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book_new\index.html">
       <PackagePath>pages\book_new\index.html</PackagePath>
-      <Modified>2013-04-07T10:02:12.269</Modified>
+      <Modified>2013-04-08T15:26:30.162</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\home\home.html">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\home\home.html">
       <PackagePath>pages\home\home.html</PackagePath>
-      <Modified>2013-04-07T09:27:25.090</Modified>
+      <Modified>2013-04-08T12:45:31.442</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\book\css\bg.jpg">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book\css\bg.jpg">
       <PackagePath>pages\book\css\bg.jpg</PackagePath>
       <Modified>2013-03-25T14:58:32.426</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\home\bg.jpg">
-      <PackagePath>pages\home\bg.jpg</PackagePath>
-      <Modified>2013-03-25T14:58:32.426</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\pages\book_new\images\preloader.gif">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\pages\book_new\images\preloader.gif">
       <PackagePath>pages\book_new\images\preloader.gif</PackagePath>
-      <Modified>2013-04-05T03:57:54.802</Modified>
+      <Modified>2013-04-08T14:32:28.480</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Erke\Documents\GitHub\TwinBook1.2\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-04-07T09:27:29.823</Modified>
+      <Modified>2013-04-08T14:47:33.072</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

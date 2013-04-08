@@ -2,5 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ReferenceCachePath>C:\Users\Erke\AppData\Local\Temp\TwinBook1.2_refcache</ReferenceCachePath>
+    <ShowAllFiles>false</ShowAllFiles>
+    <AutoRefresh>true</AutoRefresh>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
 </Project>

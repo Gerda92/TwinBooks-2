@@ -13,18 +13,21 @@
     <script src="home.js"></script>
 </head>
 <body>
-    <div class="home fragment">
-        <header aria-label="Header content" role="banner">
-            <button class="win-backbutton" aria-label="Back" disabled type="button"></button>
-            <h1 class="titlearea win-type-ellipsis">
-                <span class="pagetitle">TwinBooks App</span>
+    <div>
+        <header class="pagetitle">
+            <h1>
+                TwinBooks
             </h1>
         </header>
         <section aria-label="Main content" role="main">
             <ul>                
-                    <a href="/pages/book_new/index.html">
-                        The Happy Prince and Other Tales
-                        <small>Oscar Wilde</small></a>                
+                    <button class="link_to_book" onclick="location.href('/pages/book_new/index.html')">
+                        The Happy Prince and Other Tales<br/>
+                        <small>Oscar Wilde</small></button>                
+                    <br/>                    
+                    <button class="link_to_book" onclick="location.href('/pages/book_new/index.html')">
+                        Көксерек<br/>
+                        <small>Мұхтар Әуезов</small></button>                
             </ul>
         </section>
     </div>

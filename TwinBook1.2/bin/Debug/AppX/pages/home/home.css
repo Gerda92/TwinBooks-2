@@ -1,7 +1,19 @@
 ﻿body{
-	background: url("bg.jpg");	
+	background: #f3f3f3;	
 }
 
-.home p {
-    margin-left: 120px;
+.pagetitle {
+    margin:40px 0px 50px 70px;
+    color:#03a5cd;
+}
+
+.link_to_book, .link_to_book:hover, .link_to_book:active, .link_to_book:link, .link_to_book:focus, .link_to_book:checked{
+        background: #5db9d0;
+        margin-left:40px; 
+        margin-bottom: 30px;
+        border: none;
+        height:120px;
+        width:280px;        
+        font-family:'Segoe UI';
+        font-size:20px;
 }

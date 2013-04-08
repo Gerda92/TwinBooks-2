@@ -55,6 +55,10 @@
     </AppxManifest>
     <Content Include="css\default.css" />
     <Content Include="images\logo.png" />
+    <Content Include="images\LogoBlack310x150.png" />
+    <Content Include="images\LogoBlack620x300.png" />
+    <Content Include="images\LogoWhite310x150.png" />
+    <Content Include="images\LogoWhite620x300.png" />
     <Content Include="images\smalllogo.png" />
     <Content Include="images\splashscreen.png" />
     <Content Include="images\storelogo.png" />
@@ -77,22 +81,38 @@
     <Content Include="pages\book_new\css\app.css" />
     <Content Include="pages\book_new\css\normalize.css" />
     <Content Include="pages\book_new\css\table.css" />
+    <Content Include="pages\book_new\icons\2books.png" />
+    <Content Include="pages\book_new\icons\align.png" />
+    <Content Include="pages\book_new\icons\align1.png" />
+    <Content Include="pages\book_new\icons\lb.png" />
+    <Content Include="pages\book_new\icons\logomini.png" />
+    <Content Include="pages\book_new\icons\logomini1.png" />
+    <Content Include="pages\book_new\icons\rb.png" />
+    <Content Include="pages\book_new\icons\toleft.png" />
+    <Content Include="pages\book_new\icons\toright.png" />
     <Content Include="pages\book_new\images\preloader.gif" />
     <Content Include="pages\book_new\index.html" />
     <Content Include="pages\book_new\js\alignment-module.js" />
     <Content Include="pages\book_new\js\app.js" />
+    <Content Include="pages\book_new\js\jquery-1.8.2-win8-1.0.js" />
     <Content Include="pages\book_new\js\jquery.animate-colors-min.js" />
     <Content Include="pages\book_new\js\jquery.js" />
     <Content Include="pages\book_new\js\modules.js" />
+    <Content Include="pages\book_new\js\pagination-module.js" />
+    <Content Include="pages\book_new\js\preprocessing.js" />
     <Content Include="pages\book_new\js\tooltip.js" />
-    <Content Include="pages\home\bg.jpg" />
     <Content Include="pages\home\home.css" />
     <Content Include="pages\home\home.html" />
     <Content Include="pages\home\home.js" />
+    <Content Include="Без имени-2.png" />
     <None Include="TwinBook1.2_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
     <SDKReference Include="Microsoft.WinJS.1.0, Version=1.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\" />
+    <Folder Include="bld\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
   <!-- To modify your build process, add your task inside one of the targets below then uncomment

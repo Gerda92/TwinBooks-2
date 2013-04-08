@@ -7,6 +7,10 @@ var core = {
 * Core initilizing
 */
 core.init = function(){
+	//create global namespace 
+	window.namespace = {
+		scroll : []
+	}
 	//starting all modules
 	modules.init.call();
 }

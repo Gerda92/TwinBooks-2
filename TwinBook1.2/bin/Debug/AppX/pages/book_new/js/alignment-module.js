@@ -106,7 +106,7 @@
                 newMarkHighlight(id1);
             },
             error: function () {
-                console.log('Some kind of error');
+                alert('Some kind of error');
                 $(".mark-info").removeClass('loading')
                     .css("visibility", "");
 

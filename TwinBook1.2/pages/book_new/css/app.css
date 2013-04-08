@@ -29,21 +29,50 @@ p{
 	font-size : 16px;
 	color : white;
 	padding : 10px 0px;
-	background: #5dade2;
+	background: rgba(77, 78, 78, 1);
 }
 
 .tooltip-control-button{
 	display: block;
 	background: #1abc9c;
 	color : white;
-	font-size : 16px;
+	font-size : 13px;
 	text-align: center;
 	padding : 4px 5px;
 }
 .tooltip-control-button a{
 	text-decoration: none;
 	color : white;
-	padding : 4px 10px;
+	font-weight: bold;
+	padding : 5px 10px;
+	display: inline-block;
+}
+
+.sticky-header{
+	position:fixed;
+	top : 0;
+	width : auto;
+	z-index : 100;
+}
+
+.side-options{
+	margin-right : 20px;
+	float : right;
+}
+.side-options a{
+	color : white;
+	text-decoration: none;
+	font-size : 13px;
+	margin-right : 5px;
 }
 
 
+/*
+	working with buttons
+*/
+.icon-left{
+	background: url('icons/lb.png');
+}
+.icon-right{
+	
+}

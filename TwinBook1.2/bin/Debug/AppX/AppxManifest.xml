@@ -22,9 +22,9 @@
   </Resources>
   <Applications>
     <Application Id="App" StartPage="default.html">
-      <VisualElements DisplayName="TwinBook1.2" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="TwinBook1.2" ForegroundText="light" BackgroundColor="#464646">
-        <DefaultTile ShowName="allLogos" />
-        <SplashScreen Image="images\splashscreen.png" />
+      <VisualElements DisplayName="TwinBook1.2" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="TwinBook1.2" ForegroundText="light" BackgroundColor="#ffffff">
+        <DefaultTile ShowName="allLogos" WideLogo="images\LogoBlack310x150.png" />
+        <SplashScreen Image="images\LogoBlack620x300.png" />
       </VisualElements>
     </Application>
   </Applications>
