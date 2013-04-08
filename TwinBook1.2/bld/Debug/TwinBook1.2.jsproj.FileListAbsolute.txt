@@ -11,3 +11,16 @@ C:\Users\Erke\Desktop\New folder\TwinBook1.2\bld\Debug\resources.resfiles
 C:\Users\Erke\Desktop\New folder\TwinBook1.2\bld\Debug\pri.resfiles
 C:\Users\Erke\Desktop\New folder\TwinBook1.2\bld\Debug\LanguageQualifiers.txt
 C:\Users\Erke\Desktop\New folder\TwinBook1.2\bld\Debug\ProjectArchitectures.txt
+C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\bin\Debug\resources.pri
+C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\bin\Debug\AppxManifest.xml
+C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\bin\Debug\TwinBook1.2.build.appxrecipe
+C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\bld\Debug\priconfig.xml.intermediate
+C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\bld\Debug\layout.resfiles.intermediate
+C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\bld\Debug\resources.resfiles.intermediate
+C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\bld\Debug\pri.resfiles.intermediate
+C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\bld\Debug\priconfig.xml
+C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\bld\Debug\layout.resfiles
+C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\bld\Debug\resources.resfiles
+C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\bld\Debug\pri.resfiles
+C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\bld\Debug\LanguageQualifiers.txt
+C:\Users\Erke\Documents\GitHub\TwinBooks-2\TwinBook1.2\bld\Debug\ProjectArchitectures.txt
