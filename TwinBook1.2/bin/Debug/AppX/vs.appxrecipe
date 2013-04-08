@@ -275,7 +275,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gerda\Desktop\TwinBooks-2\TwinBook1.2\pages\book_2\index.html">
       <PackagePath>pages\book_2\index.html</PackagePath>
-      <Modified>2013-04-08T08:38:45.588</Modified>
+      <Modified>2013-04-08T19:15:23.999</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gerda\Desktop\TwinBooks-2\TwinBook1.2\pages\home\home.html">
       <PackagePath>pages\home\home.html</PackagePath>
